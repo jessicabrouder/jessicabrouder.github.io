@@ -7,4 +7,8 @@
   ga('create', 'UA-90913589-1', 'auto');
   ga('send', 'pageview');
 
+<<<<<<< HEAD
 </script>
+=======
+</script>x
+>>>>>>> testing
